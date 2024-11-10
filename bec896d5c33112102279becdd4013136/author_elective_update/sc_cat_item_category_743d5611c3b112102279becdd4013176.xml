@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Complaints Form">53bcda99c37112102279becdd40131e4</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-10 09:07:55</sys_created_on>
+        <sys_id>743d5611c3b112102279becdd4013176</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Complaints Form</sys_name>
+        <sys_package display_value="Complaints" source="x_1527459_compla_0">bec896d5c33112102279becdd4013136</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Complaints">bec896d5c33112102279becdd4013136</sys_scope>
+        <sys_update_name>sc_cat_item_category_743d5611c3b112102279becdd4013176</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-10 09:07:55</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Complaints">bec896d5c33112102279becdd4013136</application>
+        <file_path/>
+        <instance_id>c203dc191bfa751452a243f4bd4bcb5d</instance_id>
+        <instance_name>dev226496</instance_name>
+        <name>sc_cat_item_category_743d5611c3b112102279becdd4013176</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Complaints Form">53bcda99c37112102279becdd40131e4</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-10 09:07:55</sys_created_on><sys_id>743d5611c3b112102279becdd4013176</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Complaints Form</sys_name><sys_package display_value="Complaints" source="x_1527459_compla_0">bec896d5c33112102279becdd4013136</sys_package><sys_policy/><sys_scope display_value="Complaints">bec896d5c33112102279becdd4013136</sys_scope><sys_update_name>sc_cat_item_category_743d5611c3b112102279becdd4013176</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-10 09:07:55</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1916058945</payload_hash>
+        <record_name>Can We Help You?.Complaints Form</record_name>
+        <reverted_from/>
+        <source>bac896d5c33112102279becdd401313a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-10 09:07:56</sys_created_on>
+        <sys_id>783d5611c3b112102279becdd40131a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193155472130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-10 09:07:56</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>783d5611c9b112104552520b415e029f</update_guid>
+        <update_guid_history>783d5611c9b112104552520b415e029f:1916058945</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Complaints Form">2abdda95c3b112102279becdd4013197</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-10 09:10:14</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>332178b01b924ddc98368359ff2a9219</sys_id>
+        <sys_metadata>743d5611c3b112102279becdd4013176</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Complaints Form</sys_name>
+        <sys_package display_value="Complaints" source="x_1527459_compla_0">bec896d5c33112102279becdd4013136</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Complaints">bec896d5c33112102279becdd4013136</sys_scope>
+        <sys_scope_delete display_value="">058595f6882648988073a46202020e40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_743d5611c3b112102279becdd4013176</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_743d5611c3b112102279becdd4013176">783d5611c3b112102279becdd40131a0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-10 09:10:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

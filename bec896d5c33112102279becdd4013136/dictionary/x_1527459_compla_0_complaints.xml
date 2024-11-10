@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="265bda99c33112102279becdd401312a" label="Complaints" max_length="40" name="x_1527459_compla_0_complaints" type="collection">
+        <element label="Describe Your Complaints" max_length="500" name="describe_your_complaints" type="string"/>
+        <element label="Redressal Group" max_length="32" name="redressal_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="redressal_group"/>
+        </index>
+    </element>
+</database>
